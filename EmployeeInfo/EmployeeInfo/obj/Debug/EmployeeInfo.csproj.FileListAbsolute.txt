@@ -1,0 +1,7 @@
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe.config
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.pdb
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csprojAssemblyReference.cache
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.CoreCompileInputs.cache
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.exe
+E:\C#\All Evidence\2nd Evidence\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
